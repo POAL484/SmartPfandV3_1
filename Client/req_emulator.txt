@@ -1,0 +1,10 @@
+pygame
+websockets
+keyboard
+pyautogui
+mouse
+cryptography
+flask
+opencv-python
+keras
+tensorflow

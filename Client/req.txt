@@ -1,0 +1,10 @@
+pygame
+websockets
+keyboard
+pyautogui
+mouse
+cryptography
+RPi.GPIO
+flask
+opencv-python
+pi-rc522

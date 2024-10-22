@@ -1,0 +1,1 @@
+{"machine_id": "9bde968a-5800-457f-a7ef-ce853d522719", "service": "&YP0MRbHWb3VYkTOk'f+4P@SooE7hgeu", "token": "vj$6DRpfQ|`-$*-oc$fjvhc<TW?e`c)<", "min_bank_weight": 5, "max_bank_weight": 25, "cam_id": 0, "hx711": {"clock": 31, "data": 29, "offset": -14750, "1gramm": 400}, "air": {"pin": 16, "time": 3}, "servo": {"pin": 15, "min_degree": 0, "max_degree": 45}}
